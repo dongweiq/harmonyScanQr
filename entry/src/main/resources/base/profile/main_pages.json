@@ -1,7 +1,6 @@
 {
   "src": [
     "pages/CanvasTest",
-    "pages/Index",
-    "pages/MaskViewPage"
+    "pages/Index"
   ]
 }
